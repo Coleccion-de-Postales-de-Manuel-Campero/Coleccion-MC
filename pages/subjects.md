@@ -10,5 +10,4 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Explorar objetos
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Utilice esta sección para explorar de acuerdo a términos o palabras. El tamaño de letra está determinado por la frecuencia en la que las palabras aparecen en la tabla de metadatos.
