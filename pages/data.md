@@ -8,4 +8,4 @@ permalink: /data.html
 
 ## Colección de metadatos
 
-La tabla de abajo muestra los datos que se utilizaron para la ejecución de la página web. Puede descargarlos a través del botón "descargar" en la parte superior de este texto. 
+La tabla de abajo muestra los datos que se utilizaron para la ejecución de la página web. Puede descargarlos a través del botón "descargar" en la parte superior de este texto, o bien, presionando el botón "CSV" o "Excel". 
