@@ -1,5 +1,5 @@
 ---
-title: About
+title: Los viajes de Mauel Campero a través de su colcción de postales
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
@@ -7,10 +7,6 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
-
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## Sobre la colección "Los viajes de Manuel Campero a través de su colección de postales"
 
@@ -30,14 +26,20 @@ Contiene 100 postales recuperadas de la colección personal de Manuel Campero. R
 
 # ¿Cómo se realizó el proyecto?
 
-Este proyecto salió de nuestro curso Fundamentos en Humanidades Digitales para la carrera de Comunicación en la Universidad Iberoamericana. Las postales fueron provistas por el profesor, y nosotros las digitalizamos, ordenamos y enriquecimos con datos y metadatos. Tras esto, creamos el sitio en Collection Builder y lo poblamos de información y recursos.
+Este proyecto surgió de nuestro curso Fundamentos en Humanidades Digitales para la carrera de Comunicación en la Universidad Iberoamericana. Las postales fueron provistas por el profesor, y nosotros las digitalizamos, ordenamos y enriquecimos con datos y metadatos. Tras esto, creamos el sitio en Collection Builder y lo poblamos de información y recursos.
 
 # ¿Cómo puedo colaborar?
 
 Detalles para mejorar este sitio:
 (https://github.com/Coleccion-de-Postales-de-Manuel-Campero/Coleccion-MC/discussions/categories/general).
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+ 
+# Créditos
+Captura de imágenes: Silvana Flores
+Transcribir información: Silvana Flores
+Idetificar datos: Sandra Varela
+Idetificar metadatos: Sandra Varela
+Modelado de datos: Abril Hernández
+Entorno gráfico: Alberto Alcántara
+LLenado de información: Alberto Alcántara
+Construir visualizaciones: Alberto Alcántara
+Análisis: Bruno Mena
