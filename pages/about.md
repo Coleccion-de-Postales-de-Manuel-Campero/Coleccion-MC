@@ -32,6 +32,10 @@ Este proyecto surgió de nuestro curso Fundamentos en Humanidades Digitales para
 
 Detalles para mejorar este sitio:
 (https://github.com/Coleccion-de-Postales-de-Manuel-Campero/Coleccion-MC/discussions/categories/general).
+
+# Documentación
+
+(https://docs.google.com/document/d/1v5czXNGyHPewosBZAzjZWMRy8UVE5GIaep0ul109reA/edit?usp=drivesdk).
  
 # Créditos
 Captura de imágenes: Silvana Flores
