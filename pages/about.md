@@ -38,12 +38,9 @@ Detalles para mejorar este sitio:
 (https://docs.google.com/document/d/1v5czXNGyHPewosBZAzjZWMRy8UVE5GIaep0ul109reA/edit?usp=drivesdk).
  
 # Créditos
-Captura de imágenes: Silvana Flores
-Transcribir información: Silvana Flores
-Idetificar datos: Sandra Varela
-Idetificar metadatos: Sandra Varela
-Modelado de datos: Abril Hernández
-Entorno gráfico: Alberto Alcántara
-LLenado de información: Alberto Alcántara
-Construir visualizaciones: Alberto Alcántara
-Análisis: Bruno Mena
+Captura de imágenes: Silvana Flores <br>
+Transcribir información: Silvana Flores <br>
+Idetificar datos: Sandra Varela <br>
+Idetificar metadatos: Sandra Varela <br>
+Modelado de datos: Abril Hernández <br>
+Análisis: Bruno Mena <br>
