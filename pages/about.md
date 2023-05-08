@@ -1,13 +1,3 @@
----
-title: Los viajes de Mauel Campero a través de su colcción de postales
-layout: about
-permalink: /about.html
-# include CollectionBuilder info at bottom
-credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
----
-
 ## Sobre la colección "Los viajes de Manuel Campero a través de su colección de postales"
 
 # ¿En qué consiste el proyecto? ¿De qué se trata?
