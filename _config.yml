@@ -28,10 +28,7 @@ tagline: A través de su colección de postales
 description: "Este proyecto es un fragmento de la colección de postales que Manuel Campero, hacendatario y marqués de origen español, recolectó durante sus viajes a las ciudades más turísticas de Europa. Las postales se pueden entender como pedazos de la historia de vida del señor Campero. El objetivo del proyecto es publicar esta colección privada, de modo que los entusiastas y los académicos especializados puedan reconstruir la memoria histórica de la vida de un hombre acaudalado cuyas raíces están sembradas en México y España."
 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Abril Hernández Ramírez
-Bruno Mena Macedo
-Silvana Flores
-Sandra Varela
+author: Abril Hernández Ramírez, Bruno Mena Macedo, Silvana Flores, Sandra Varela
 
 ##########
 # COLLECTION SETTINGS
